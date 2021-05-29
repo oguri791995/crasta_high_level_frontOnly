@@ -1,2 +1,4 @@
 # crasta_high_level_frontOnly
 カンプからのコーディング
+top画面:Javascript使用
+about画面:JQuery使用
