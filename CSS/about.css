@@ -16,9 +16,7 @@ a{
 header,.first-view{
     color: #fff;
 }
-.displayNone{
-    display: none;
-}
+
 .opacity:hover{
     opacity: 70%;
     transition: .3s;
@@ -296,6 +294,9 @@ section{
     overflow: hidden;
 }
 /* nav */
+.header-nav{
+    display:none ;
+}
 .nav-inner{
     z-index: 2;
     position: absolute;
