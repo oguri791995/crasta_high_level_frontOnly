@@ -225,12 +225,17 @@ section{
         margin: 0 1.5rem;
     }
 /* header */
+    /* header{
+        overflow: hidden;
+    } */
     .header-line{
         padding-top: 2.0rem;
     }
     .header-title{
-        /* margin-left: 4vw; */
         margin: auto;
+    }
+    .header-title img{
+        width: 20.0rem;
     }
     .header-humberger{
         margin: auto;
